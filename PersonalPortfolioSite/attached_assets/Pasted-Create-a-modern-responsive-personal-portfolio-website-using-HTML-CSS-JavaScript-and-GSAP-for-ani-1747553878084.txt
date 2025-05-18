@@ -1,0 +1,106 @@
+Create a modern, responsive personal portfolio website using HTML, CSS, JavaScript, and GSAP for animations. This portfolio is for **Anbu Sivam B**, a PCB Designer & Full Stack Developer.
+
+The site should include the following sections, each with smooth scroll-triggered animations (fade-ins, slides, and hover effects) using GSAP or ScrollTrigger:
+
+🌟 Hero Section:
+- Name: Anbu Sivam B
+- Title: PCB Designer & Full Stack Developer
+- Location: Tiruvannamalai, Tamil Nadu, India
+- Email: anbulegend101@gmail.com
+- Phone: +91 9790155280
+- LinkedIn: linkedin.com/in/bast101
+- Portfolio: bast-port-folio.netlify.app
+- LinkTree: linktr.ee/Bast101
+- Include animated introduction text using GSAP (fade-in, slide-up)
+- Add buttons like “Download Resume” and “View Projects”
+
+🧑‍💻 About Me:
+- A highly motivated and detail-oriented Electronics and Communication Engineer. Adept at PCB design and full-stack development. Known for delivering high-quality results in fast-paced environments with strong communication and teamwork. Committed to continuous learning and driven by challenges that offer personal and organizational growth.
+- Add scroll-triggered entrance animation
+
+🎓 Education:
+- S.K.P Engineering College (Affiliated to Anna University)
+- Bachelor of Engineering in Electronics and Communication
+- 2022 – 2026
+- Show in a styled card or timeline component
+
+💼 Work Experience (Internships):
+- CT Tech Solutions — Founder & CEO
+- GAO Tek Inc — IoT & Software Intern
+- IRON GLASS BYTES — Software Engineer Intern (Bitcoin projects)
+- Nova Spark Hub — MERN Stack Developer Intern
+- Web Stack Academy — Android Developer Intern
+- Shadow Fox — Web Developer (multiple projects)
+- Oasis Infobyte — Android Developer Intern
+- CollegePur — Graphics Designer Intern
+- Mentorness — AI Intern, Content Writer, Platoon Leader
+- YBI Foundation — Machine Learning Intern
+- Display this as a vertical timeline with scroll-based GSAP animation
+
+🛠️ Skills:
+💻 Programming & Web:
+- Java, Python, C++, HTML, CSS, Bootstrap
+- JavaScript, React.js, Node.js, Express.js
+- MySQL, MERN Stack, Full Stack Development
+- Git/GitHub, Git Bash
+
+🔧 Tools & Software:
+- Power BI, MATLAB, Arduino UNO, VHDL
+- Unity (basic), Office 365, Content Writing, Video Editing
+- Trading, Hardware Simulation
+
+🧠 Soft Skills:
+- Public Speaking
+- Communication
+- Teamwork
+- Logical Thinking
+
+- Use icons or circular meters with GSAP reveal animations for each skill set
+
+📂 Projects:
+1. Personal Portfolio (April 2024)
+   - A responsive website showcasing skills, projects, and achievements. Built with modern web technologies.
+
+2. Educational Website with ERP (Nov – Dec 2024)
+   - Created for VLGE Pvt. Ltd., with student/trainer management and secure credential verification.
+   - Link: valuelearn.in
+
+3. Electrooculography (Dec 2024)
+   - Eye movement simulation using PSpice and Tinkercad for assistive tech control.
+
+- Display projects as cards or modals with hover + entrance animations
+
+🏆 Achievements:
+- Attended 30+ national conferences
+- Presented research papers & ideas
+- Won 20+ presentation competitions
+- Demonstrated excellence in communication, research, and analysis
+
+- Use animated counters for these stats with GSAP
+
+🌐 Languages:
+- English – Fluent
+- Tamil – Fluent
+- Hindi – Basic
+
+📞 Contact:
+- Address: No. 199, Bajani Kovil Street, Kambattu Village, Thrambattu Taluk, Tiruvannamalai District, 606 611
+- Email: anbulegend101@gmail.com
+- Phone: +91 9790155280
+- LinkedIn: linkedin.com/in/bast101
+- Portfolio: bast-port-folio.netlify.app
+- Include a styled contact form (name, email, message)
+- Include social icons
+
+🌈 Design Features:
+- Use Tailwind CSS or SASS for styling
+- Add dark/light mode toggle
+- Enable smooth scrolling
+- Mobile responsive
+- Use GSAP (or GSAP ScrollTrigger) for all animations
+
+📁 Folder structure:
+- index.html
+- /css/style.css
+- /js/app.js
+- /assets/
