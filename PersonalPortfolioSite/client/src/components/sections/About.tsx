@@ -34,7 +34,7 @@ const About = () => {
             <div className="relative">
               <div className="absolute -inset-4 bg-primary/10 rounded-lg -z-10 blur-sm"></div>
               <img 
-                src="https://drive.google.com/file/d/19QynkUv7z6aLM5w4CjI8f3Go1ItJCIvc/view?usp=sharing" 
+                src="https://postimg.cc/WFmrwtx6" 
                 className="rounded-lg shadow-lg w-full max-w-lg"
               />
             </div>
