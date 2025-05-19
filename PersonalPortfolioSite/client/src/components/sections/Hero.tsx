@@ -45,8 +45,9 @@ const Hero = () => {
         <div className="w-full md:w-1/2 flex justify-center" data-animation="hero-image">
           <div className="relative w-64 h-64 md:w-80 md:h-80">
             <div className="absolute inset-0 rounded-full bg-gradient-to-br from-primary to-accent opacity-10 animate-pulse"></div>
-            <img 
-              src="https://postimg.cc/WFmrwtx6" 
+             <img 
+              src="/images/profile-hero.jpg" 
+              alt="Anbu Sivam B" 
               className="rounded-full w-full h-full object-cover border-4 border-white dark:border-gray-800 shadow-lg"
             />
           </div>
