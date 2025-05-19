@@ -46,7 +46,7 @@ const Hero = () => {
           <div className="relative w-64 h-64 md:w-80 md:h-80">
             <div className="absolute inset-0 rounded-full bg-gradient-to-br from-primary to-accent opacity-10 animate-pulse"></div>
             <img 
-              src="https://drive.google.com/file/d/1i5ifDB-pO3ti1hGNu60dBWDQQ0H79kVc/view?usp=sharing" 
+              src="https://postimg.cc/WFmrwtx6" 
               className="rounded-full w-full h-full object-cover border-4 border-white dark:border-gray-800 shadow-lg"
             />
           </div>
