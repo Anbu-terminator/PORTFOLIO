@@ -1,7 +1,7 @@
 const experienceData = [
   {
     company: "CT Tech Solutions",
-    role: "Founder & CEO",
+    role: "Software Engineer",
     description: "Leading a tech startup focused on custom software and hardware solutions."
   },
   {
