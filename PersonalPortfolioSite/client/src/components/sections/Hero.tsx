@@ -23,7 +23,7 @@ const Hero = () => {
             <a href="#contact" className="bg-primary hover:bg-blue-600 text-white font-medium py-3 px-6 rounded-lg transition-colors duration-300 flex items-center">
               <i className="fa-solid fa-envelope mr-2"></i> Contact Me
             </a>
-            <a href="#" className="bg-white dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-800 dark:text-gray-200 font-medium py-3 px-6 rounded-lg shadow-sm transition-colors duration-300 flex items-center border border-gray-200 dark:border-gray-700">
+            <a href="https://drive.google.com/drive/folders/1fSRai776G7JNauEThcb4RTX1zfOnmIy4?usp=sharing" className="bg-white dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 text-gray-800 dark:text-gray-200 font-medium py-3 px-6 rounded-lg shadow-sm transition-colors duration-300 flex items-center border border-gray-200 dark:border-gray-700">
               <i className="fa-solid fa-download mr-2"></i> Download Resume
             </a>
           </div>
