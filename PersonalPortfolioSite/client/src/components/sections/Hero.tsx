@@ -31,10 +31,10 @@ const Hero = () => {
             <a href="https://linkedin.com/in/bast101" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-primary dark:text-gray-400 dark:hover:text-primary transition-colors duration-300">
               <i className="fa-brands fa-linkedin"></i>
             </a>
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-primary dark:text-gray-400 dark:hover:text-primary transition-colors duration-300">
+            <a href="https://github.com/Anbu-terminator" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-primary dark:text-gray-400 dark:hover:text-primary transition-colors duration-300">
               <i className="fa-brands fa-github"></i>
             </a>
-            <a href="mailto:anbulegend101@gmail.com" className="text-gray-600 hover:text-primary dark:text-gray-400 dark:hover:text-primary transition-colors duration-300">
+            <a href="tel:9790155280" className="text-gray-600 hover:text-primary dark:text-gray-400 dark:hover:text-primary transition-colors duration-300">
               <i className="fa-solid fa-envelope"></i>
             </a>
             <a href="https://linktr.ee/Bast101" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-primary dark:text-gray-400 dark:hover:text-primary transition-colors duration-300">
