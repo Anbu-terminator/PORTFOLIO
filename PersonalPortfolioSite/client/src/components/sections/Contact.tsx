@@ -149,7 +149,7 @@ const Contact = () => {
                   <div>
                     <h4 className="font-medium mb-1">Email</h4>
                     <a href="mailto:anbulegend101@gmail.com" className="text-primary hover:text-blue-700 dark:hover:text-blue-300 transition-colors duration-300">
-                      anbulegend101@gmail.com
+                      bastoffcial@@gmail.com
                     </a>
                   </div>
                 </div>
@@ -174,7 +174,7 @@ const Contact = () => {
                 <a href="https://linkedin.com/in/bast101" target="_blank" rel="noopener noreferrer" className="w-12 h-12 rounded-full bg-blue-100 dark:bg-blue-900/30 flex items-center justify-center text-blue-600 dark:text-blue-400 hover:bg-blue-200 dark:hover:bg-blue-800/40 transition-colors duration-300">
                   <i className="fa-brands fa-linkedin-in text-xl"></i>
                 </a>
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="w-12 h-12 rounded-full bg-gray-100 dark:bg-gray-700 flex items-center justify-center text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors duration-300">
+                <a href="https://github.com/Anbu-terminator" target="_blank" rel="noopener noreferrer" className="w-12 h-12 rounded-full bg-gray-100 dark:bg-gray-700 flex items-center justify-center text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors duration-300">
                   <i className="fa-brands fa-github text-xl"></i>
                 </a>
                 <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="w-12 h-12 rounded-full bg-blue-100 dark:bg-blue-900/30 flex items-center justify-center text-blue-400 dark:text-blue-300 hover:bg-blue-200 dark:hover:bg-blue-800/40 transition-colors duration-300">
@@ -183,7 +183,7 @@ const Contact = () => {
                 <a href="https://linktr.ee/Bast101" target="_blank" rel="noopener noreferrer" className="w-12 h-12 rounded-full bg-green-100 dark:bg-green-900/30 flex items-center justify-center text-green-600 dark:text-green-400 hover:bg-green-200 dark:hover:bg-green-800/40 transition-colors duration-300">
                   <i className="fa-solid fa-link text-xl"></i>
                 </a>
-                <a href="https://bast-port-folio.netlify.app" target="_blank" rel="noopener noreferrer" className="w-12 h-12 rounded-full bg-purple-100 dark:bg-purple-900/30 flex items-center justify-center text-purple-600 dark:text-purple-400 hover:bg-purple-200 dark:hover:bg-purple-800/40 transition-colors duration-300">
+                <a href="https://portfolio-uzpb.onrender.com/" target="_blank" rel="noopener noreferrer" className="w-12 h-12 rounded-full bg-purple-100 dark:bg-purple-900/30 flex items-center justify-center text-purple-600 dark:text-purple-400 hover:bg-purple-200 dark:hover:bg-purple-800/40 transition-colors duration-300">
                   <i className="fa-solid fa-globe text-xl"></i>
                 </a>
               </div>
